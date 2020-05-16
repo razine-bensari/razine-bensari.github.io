@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on home</title>
-    <link>http://razine-bensari.github.io/about/</link>
+    <link>https://razine-bensari.github.io/about/</link>
     <description>Recent content in Abouts on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://razine-bensari.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://razine-bensari.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Hugo</title>
-      <link>http://razine-bensari.github.io/about/about/</link>
+      <link>https://razine-bensari.github.io/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://razine-bensari.github.io/about/about/</guid>
+      <guid>https://razine-bensari.github.io/about/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
