@@ -6,6 +6,7 @@
     <description>Recent content in Contacts on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://razine-bensari.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Contact Me</title>
       <link>https://razine-bensari.github.io/contact/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://razine-bensari.github.io/contact/me/</guid>
       <description>Best way to contact me is via email: razine.bensari@gmail.com</description>
