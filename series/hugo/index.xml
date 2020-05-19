@@ -6,18 +6,18 @@
     <description>Recent content in Hugo on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://razine-bensari.github.io/series/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://razine-bensari.github.io/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>My First Post</title>
+      <link>https://razine-bensari.github.io/posts/first-post/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://razine-bensari.github.io/posts/creating-a-new-theme/</guid>
-      <description></description>
+      <guid>https://razine-bensari.github.io/posts/first-post/</guid>
+      <description>My first Post I do not have much interesting to say for now, at least worthy of a blog post, but, if you are looking for great mathematical puzzles and enigmas, contact me!</description>
     </item>
     
   </channel>

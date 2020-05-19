@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://razine-bensari.github.io/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://razine-bensari.github.io/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://razine-bensari.github.io/series/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://razine-bensari.github.io/posts/first-post/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://razine-bensari.github.io/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://razine-bensari.github.io/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://razine-bensari.github.io/series/theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,11 +53,11 @@
   </url>
   
   <url>
-    <loc>https://razine-bensari.github.io/projects/</loc>
+    <loc>https://razine-bensari.github.io/projects/projects/</loc>
   </url>
   
   <url>
-    <loc>https://razine-bensari.github.io/projects/projects/</loc>
+    <loc>https://razine-bensari.github.io/projects/</loc>
   </url>
   
   <url>
