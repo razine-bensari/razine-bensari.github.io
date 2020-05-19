@@ -13,37 +13,37 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://razine-bensari.github.io/posts/first-post/</link>
+      <link>https://razine-bensari.github.io/posts/first_post/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://razine-bensari.github.io/posts/first-post/</guid>
+      <guid>https://razine-bensari.github.io/posts/first_post/</guid>
       <description>My first Post I do not have much interesting to say for now, at least worthy of a blog post, but, if you are looking for great mathematical puzzles and enigmas, contact me!</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://razine-bensari.github.io/about/about/</link>
+      <link>https://razine-bensari.github.io/about/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://razine-bensari.github.io/about/about/</guid>
+      <guid>https://razine-bensari.github.io/about/me/</guid>
       <description>I am a software engineering student (final year), working with Java mainly and playing with Go. I love backend, writing SAAS, using cloud technologies and discrete math. The topics in software engineering I am the most passionate about is Software Architecture and Software design (i.e. beautiful code). I am currently taking graduate classes at Concordia University in Artifical Inteligence because this domain brings the gap between great fields in mathematics and programing I took the following classes:</description>
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>https://razine-bensari.github.io/contact/contact/</link>
+      <link>https://razine-bensari.github.io/contact/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://razine-bensari.github.io/contact/contact/</guid>
+      <guid>https://razine-bensari.github.io/contact/me/</guid>
       <description>Best way to contact me is via email: razine.bensari@gmail.com</description>
     </item>
     
     <item>
       <title>List of what I worked on ...</title>
-      <link>https://razine-bensari.github.io/projects/projects/</link>
+      <link>https://razine-bensari.github.io/projects/list_projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://razine-bensari.github.io/projects/projects/</guid>
+      <guid>https://razine-bensari.github.io/projects/list_projects/</guid>
       <description>Nothing to see here yet&amp;hellip; I have worked on a few interesting project but have not had the time to put them here. You can check out my github and send me a message on LinkedIn if you are interested.
 So far, I have worked on:
   Mobile Development in React Native: Google map mobile app focused on Concordia University&amp;rsquo;s campus and indoor directions for students, faculty and staff.</description>
