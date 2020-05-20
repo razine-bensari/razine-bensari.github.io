@@ -35,10 +35,10 @@
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://razine-bensari.github.io/projects/list_projects/</guid>
-      <description>I have worked on a few interesting project but have not had the time to put them here. You can check out my github and send me a message on LinkedIn if you are interested.
+      <description>I have worked on a few interesting projects but have not had the time to put them here. You can check out my github and send me a message on LinkedIn if you are interested.
 So far, I have worked on:
   Mobile Development in React Native: Google map mobile app focused on Concordia University&amp;rsquo;s campus and indoor directions for students, faculty and staff.
-  Basic of machine learning (in pure python): Implemented a Naive Bayes Classifier to distinguish tweets language.</description>
+  Basic of machine learning (in pure python): Implemented a Naive Bayes Classifier to distinguish tweets languages (6 classes).</description>
     </item>
     
     <item>
