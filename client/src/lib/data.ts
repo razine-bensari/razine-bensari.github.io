@@ -88,7 +88,7 @@ export const workExperience: WorkExperience[] = [
         title: 'Software Developer (internship)',
         company: 'YellowPages',
         period: '2018 - 2019',
-        description: 'Worked on data syndication or merchants and automated testing. I learned all the basics of web development and software engineering life cycle',
+        description: 'Worked on data syndication of merchants and automated testing using TestRail and MochaJS. I learned all the basics of web development and software engineering life cycle',
         skills: ['HTML/CSS', 'MochaJS', 'TestRail', 'Java', 'Springboot', 'MongoDB', 'AngularJS'],
         icon: 'fa-store'
     }

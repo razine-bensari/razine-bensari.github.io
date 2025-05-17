@@ -66,8 +66,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-medium text-foreground">Email</p>
-                  <a href="mailto:bensari97@gmail.com" className="text-primary hover:underline">
-                    bensari97@gmail.com
+                  <a href="mailto:razine.bensari@gmail.com" className="text-primary hover:underline">
+                    razine.bensari@gmail.com
                   </a>
                 </div>
               </div>
